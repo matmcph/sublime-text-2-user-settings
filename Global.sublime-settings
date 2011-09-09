@@ -4,7 +4,7 @@
   "remember_open_folders": true,
   "remember_open_files": true,
   "folder_exclude_patterns": [".git", ".bundle"],
-  "file_exclude_patterns": [".DS_Store"],
+  "file_exclude_patterns": [".DS_Store", "*.pyc"],
   "new_window_settings":
   {
     "side_bar_visible": true,
